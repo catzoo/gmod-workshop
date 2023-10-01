@@ -1,5 +1,5 @@
 # gmod-workshop
-Automatically grabs the workshop collection and adds the add-ons for clients to download. This uses Steam's API to grab the collection and the workshop IDs. Then it'll use `resource.AddWorkshop` to add those add-ons.
+Automatically grabs the workshop collection and add the add-ons for clients to download. This uses Steam's API to grab the collection and the workshop IDs. Then it'll use `resource.AddWorkshop` to add those add-ons.
 
 ## Usage
 In `lua/autorun/server/workshop.lua` add the collection's ID to `local COLLECTION_ID = ""`
