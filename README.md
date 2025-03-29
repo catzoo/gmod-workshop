@@ -12,4 +12,4 @@ Adding Workshop Resource: 251778521
 Adding Workshop Resource: 104607712
 ...
 ```
-If you do, this mean the script was able to add those add-ons for the clients to download.
+If you do, this means the script was able to add those add-ons for the clients to download.
